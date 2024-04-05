@@ -1,0 +1,6 @@
+@CMHInterviews_HostAddress = http://localhost:5042
+
+GET {{CMHInterviews_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
