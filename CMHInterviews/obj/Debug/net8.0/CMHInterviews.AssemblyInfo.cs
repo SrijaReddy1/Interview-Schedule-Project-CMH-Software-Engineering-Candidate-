@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CMHInterviews")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f945403bd1a271de9705239eef04a7965bccaa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CMHInterviews")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CMHInterviews")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

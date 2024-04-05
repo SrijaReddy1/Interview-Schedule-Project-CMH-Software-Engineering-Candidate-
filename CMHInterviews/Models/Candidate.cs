@@ -7,9 +7,6 @@ namespace CMHDbContext.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        // Data annotation specifying the data type for formatting purposes
-        [DataType(DataType.Date)]
-        // Property for the date of the interview
         public DateTime DateOfInterview { get; set; }
 
     }

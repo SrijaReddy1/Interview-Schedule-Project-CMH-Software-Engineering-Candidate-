@@ -37,8 +37,8 @@ namespace CMHInterviews.Controllers
         //This method is also a GET endpoint, but it takes a parameter DateOfInterview from the route.
 
         //It retrieves candidates from the database whose DateOfInterview matches the provided date(DateOfInterview) using Where method.
-        [HttpGet]
-        [Route("{DateOfInterview}")]
+        [HttpGet("{DateOfInterview}")]
+        
         public async Task<IActionResult> GetCandidates([FromRoute] DateTimeOffset DateOfInterview)
         {
             var candidates = await dbContext.Candidates
@@ -54,15 +54,26 @@ namespace CMHInterviews.Controllers
             return Ok(candidates);
 
         }
+        [HttpPost("count")]
+        public async Task<IActionResult> CountInterviews([FromBody] DateTimeOffset dateOfInterview)
+        {
+            var candidates = await dbContext.Candidates.ToListAsync();//retrieves all candidates from the database asynchronously and stores them in the candidates variable.
+            int count = candidates.Count(c => c.DateOfInterview.Date == dateOfInterview.Date);//calculates the number of candidates whose interview dates match the provided dateOfInterview.
+            return Ok(new { numberOfInterviews = count });
+        }
         //This method is a POST endpoint for adding a new candidate.
 
         //It takes an AddCandidateRequest object as a parameter, which contains the necessary data for creating a new candidate.
 
         //It creates a new Candidate object with the provided data and adds it to the Candidates DbSet in the database context.
-        
+
         [HttpPost]
         public async Task<IActionResult> AddCandidate(AddCandidateRequest addCandidateRequest)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             var candidate = new Candidate
             {
                

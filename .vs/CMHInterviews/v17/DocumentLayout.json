@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\data\\cmhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\data\\cmhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\models\\addcandidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\models\\addcandidaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|c:\\users\\srija\\onedrive\\documents\\vs code projects\\contactsapi\\cmhinterviews\\cmhinterviews\\data\\cmhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD58D3D-3692-4B6B-8B67-0F7EF20B80DA}|CMHInterviews\\CMHInterviews.csproj|solutionrelative:cmhinterviews\\data\\cmhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "CMHInterviews\\Controllers\\CandidateController.cs",
               "ToolTip": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Controllers\\CandidateController.cs",
               "RelativeToolTip": "CMHInterviews\\Controllers\\CandidateController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAC9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T17:27:39.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T17:27:39.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CMHDbContext.cs",
               "DocumentMoniker": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Data\\CMHDbContext.cs",
               "RelativeDocumentMoniker": "CMHInterviews\\Data\\CMHDbContext.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "CMHInterviews\\Data\\CMHDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:23:39.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T05:23:39.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Program.cs",
               "RelativeDocumentMoniker": "CMHInterviews\\Program.cs",
@@ -83,14 +81,13 @@
               "RelativeDocumentMoniker": "CMHInterviews\\Models\\Candidate.cs",
               "ToolTip": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Models\\Candidate.cs",
               "RelativeToolTip": "CMHInterviews\\Models\\Candidate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:31:09.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T05:31:09.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AddCandidateRequest.cs",
               "DocumentMoniker": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\Models\\AddCandidateRequest.cs",
               "RelativeDocumentMoniker": "CMHInterviews\\Models\\AddCandidateRequest.cs",
@@ -98,12 +95,11 @@
               "RelativeToolTip": "CMHInterviews\\Models\\AddCandidateRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T17:42:10.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-03T17:42:10.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\srija\\OneDrive\\Documents\\VS CODE PROJECTS\\ContactsAPI\\CMHInterviews\\CMHInterviews\\appsettings.json",
               "RelativeDocumentMoniker": "CMHInterviews\\appsettings.json",
